@@ -1,0 +1,27 @@
+form{
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    line-height: 60px;
+    text-align: center;
+}
+form select{
+    width: 70%;
+    height: 40px;
+}
+form #submit{
+    width: 170px;
+    height: 30px;
+background-color: black;
+color: whitesmoke;
+border: none;
+cursor: pointer;
+margin-top: 40px;
+font-size: 18px;
+}
+form input{
+    width: 70%;
+    height: 40px;
+    font-size: 15px;
+    line-height: 40px;
+}
